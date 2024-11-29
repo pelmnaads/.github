@@ -1,0 +1,12 @@
+{
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "categories": [
+        "NodeJS"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
