@@ -2,7 +2,7 @@
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI workflow template.",
     "categories": [
-        "NodeJS"
+        "nodejs"
     ],
     "filePatterns": [
         "package.json$",
